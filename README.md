@@ -1,4 +1,4 @@
 ## About Me 
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+* This webpage was created using basic HTML and CSS. 
+* It's main purpose was to learn how to get a website up on github and deploy it to github pages.
